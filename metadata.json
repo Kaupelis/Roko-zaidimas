@@ -1,0 +1,5 @@
+{
+  "name": "Monkey Adventure 2D",
+  "description": "A high-quality 2D platformer with procedural graphics, physics-based movement, and multiple levels. Collect bananas to unlock the portal and advance.",
+  "requestFramePermissions": []
+}
